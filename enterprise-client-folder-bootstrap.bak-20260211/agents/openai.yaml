@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enterprise Folder Bootstrap"
+  short_description: "Standardize enterprise client folders and context refresh"
+  default_prompt: "Mets a jour ce dossier avec $enterprise-client-folder-bootstrap"

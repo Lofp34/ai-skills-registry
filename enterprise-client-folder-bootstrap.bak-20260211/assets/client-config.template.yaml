@@ -1,0 +1,40 @@
+client:
+  name: "ACME"
+  slug: "acme"
+  type: "enterprise"
+
+mission:
+  name: "Commercial Transformation 2026"
+  id: "M001"
+  timezone: "Europe/Paris"
+  language: "fr"
+  confidentiality: "internal"
+
+objectives:
+  primary_goal: "Improve commercial execution quality"
+
+stakeholders:
+  decision_maker_email: "ceo@example.com"
+
+auth:
+  gmail_client_secret: "secrets/gmail_client_secret.json"
+  gmail_token_file: "secrets/gmail_read_token.json"
+
+data:
+  contacts_csv: "contacts.csv"
+
+email_ingestion:
+  enabled: true
+  months_back: 6
+  start_date: ""
+  max_messages: 2000
+  gmail_query_mode: "focused"
+  include_public_domains: false
+  max_domain_projects: 1
+  name_query_mode: "on"
+  name_match_mode: "on"
+  name_min_tokens: 2
+  download_attachments: false
+
+reporting:
+  auto_refresh_daily: true

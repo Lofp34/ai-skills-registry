@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elite Business Advisory"
+  short_description: "Creer des propositions premium M+B"
+  default_prompt: "Use $elite-business-advisory to build a premium two-phase commercial proposal pack in French."

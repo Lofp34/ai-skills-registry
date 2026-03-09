@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrialisation Interviews CCCA"
+  short_description: "Automatise les livrables d entretiens CCCA-BTP"
+  default_prompt: "Use $interview-industrialisation-ccca to turn a new interview PDF into interview files and aggregates with ambiguity checks."

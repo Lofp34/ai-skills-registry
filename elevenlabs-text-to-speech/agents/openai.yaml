@@ -1,0 +1,4 @@
+interface:
+  display_name: "ElevenLabs TTS"
+  short_description: "Generate speech with ElevenLabs API"
+  default_prompt: "Use $elevenlabs-text-to-speech to generate narrated audio from training scripts."

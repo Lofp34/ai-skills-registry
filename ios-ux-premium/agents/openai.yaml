@@ -1,0 +1,7 @@
+interface:
+  display_name: "iOS UX Premium Academy"
+  short_description: "Design iOS premium, clair et actionnable"
+  default_prompt: "Utilise $ios-ux-premium pour cadrer une app iOS premium en francais, orientee UX native Apple."
+  brand_color: "#C7432D"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.svg"

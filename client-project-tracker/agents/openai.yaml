@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Project Tracker"
+  short_description: "Track project progress and next steps for client engagements"
+  default_prompt: "Use $client-project-tracker to update documentation/project-status.md from this client folder."

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="iOS UX Premium Academy">
+  <defs>
+    <linearGradient id="bgLarge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A3A49"/>
+      <stop offset="100%" stop-color="#1F2933"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C7432D"/>
+      <stop offset="100%" stop-color="#E16A53"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="88" fill="url(#bgLarge)"/>
+
+  <circle cx="256" cy="210" r="96" fill="#C7432D"/>
+  <path d="M128 224h40l20-54 30 110 28-72 18 34h120" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="140" y="332" width="232" height="18" rx="9" fill="url(#signal)"/>
+  <rect x="164" y="362" width="184" height="14" rx="7" fill="#0F766E"/>
+
+  <text x="256" y="424" text-anchor="middle" font-size="42" font-family="SF Pro Display, -apple-system, sans-serif" fill="#F7F5F2" font-weight="700">ACADEMY</text>
+  <text x="256" y="458" text-anchor="middle" font-size="24" font-family="SF Pro Text, -apple-system, sans-serif" fill="#D9DEE3">iOS UX PREMIUM</text>
+</svg>

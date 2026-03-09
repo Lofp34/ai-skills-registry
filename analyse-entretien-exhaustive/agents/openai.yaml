@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyse Entretien Exhaustive"
+  short_description: "Analyse exhaustive d’entretiens B2B multi-passes"
+  default_prompt: "Utilise $analyse-entretien-exhaustive pour analyser ce transcript de façon exhaustive avec preuves horodatées."

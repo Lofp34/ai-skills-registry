@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI Audio GPT-4o Mini"
+  short_description: "Blueprint robuste transcription audio OpenAI"
+  default_prompt: "Utilise $openai-audio-transcription-gpt4o-mini pour integrer une transcription audio OpenAI fiable dans mon app."
